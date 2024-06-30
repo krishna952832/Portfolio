@@ -7,11 +7,9 @@ import Experience from "./components/Experience";
 import Footer from "./components/Footer";
 import Contact from "./components/Contact";
 import { Toaster } from "react-hot-toast";
-import './index.css';
 function App() {
   return (
     <>
-    <div id="preloader"></div>
       <div>
         <Navbar />
         <Home />
