@@ -61,7 +61,7 @@ function Home() {
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.linkedin.com/" target="_blank">
+                    <a href="https://linkedin.com/in/krishna-kumar008/" target="_blank">
                       <FaLinkedin className="text-2xl cursor-pointer" />
                     </a>
                   </li>
@@ -71,7 +71,7 @@ function Home() {
                     </a>
                   </li>
                   <li>
-                    <a href="https://t.me/" target="_blank">
+                    <a href="https://t.me/@t2kkkk" target="_blank">
                       <FaTelegram className="text-2xl cursor-pointer" />
                     </a>
                   </li>

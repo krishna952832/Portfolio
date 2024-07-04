@@ -9,7 +9,7 @@ function Footer() {
   return (
     <>
       <hr />
-      <footer className="shadow:md py-12">
+      <footer className="py-12">
         <div className="max-w-screen-2xl container mx-auto px-4 md:px-20">
           <div className=" flex flex-col items-center justify-center">
             <div className="flex space-x-4 cursor-pointer">
@@ -22,7 +22,10 @@ function Footer() {
               <p className="text-sm">
                 &copy; 2024 Portfolio
               </p>
-              <p className="text-sm">Krishna Kumar</p>
+              <p className="text-sm pt-6">Krishna Kumar <br />kartiksinghgaawr@gmail.com <br />
+              phone no-9528329690
+              </p>
+
             </div>
           </div>
         </div>
